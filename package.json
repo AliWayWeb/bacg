@@ -1,0 +1,23 @@
+{
+  "name": "rewala",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alinurlibekov45/bacg.git"
+  },
+  "author": "Ali Nurlibekov <alinurlibekov@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alinurlibekov45/bacg/issues"
+  },
+  "homepage": "https://github.com/alinurlibekov45/bacg#readme",
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "prop-types": "^15.7.2"
+  }
+}
